@@ -5,7 +5,7 @@ I'm Alessandro Salerno, but I usually go by Ale IRL and `alevm` online.
 
 I enjoy working on personal programming projects, mostly regarding low level concepts (operating systems, compilers, linkers, renderers, etc.).
 
-You can check out all my projects on this profile, including [SalernOS](https://github.com/Alessandro-Salerno), [tarman](https://github.com/Alessandro-Salerno/tarman), [ezld](https://github.com/Alessandro-Salerno/ezld), and more!
+You can check out all my projects on this profile, including [SalernOS](https://github.com/Alessandro-Salerno/SalernOS-Kernel), [tarman](https://github.com/Alessandro-Salerno/tarman), [ezld](https://github.com/Alessandro-Salerno/ezld), and more!
 
 See ya!
 
