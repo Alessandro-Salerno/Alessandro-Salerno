@@ -9,8 +9,8 @@ You can check out all my projects on this profile, including [SalernOS](https://
 
 See ya!
 
-<br>
-<br>
+---
+
 
 <h1 align="center">Skills</h1>
 <div align="center">
